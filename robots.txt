@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-ob3bg1.juragan89.space/sitemap.xml
